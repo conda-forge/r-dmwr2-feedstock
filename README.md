@@ -1,11 +1,11 @@
-About r-dmwr2
-=============
+About r-dmwr2-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dmwr2-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ltorgo/DMwR2
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dmwr2-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions and data accompanying the second edition of the book  "Data Mining with R, learning with case studies" by Luis Torgo, published by CRC Press.
 
